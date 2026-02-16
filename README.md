@@ -1,6 +1,6 @@
 # Ganesh Kumar 👋
 
-Senior Android & Flutter Developer with 4+ years of experience in building scalable, high-performance mobile applications.  
+Senior Android & Flutter Developer with 5+ years of experience in building scalable, high-performance mobile applications.  
 Strong expertise in Android (Java, Kotlin), Flutter (Dart), REST APIs, Firebase, Git, and app deployment on Play Store & App Store.
 
 ---
